@@ -1,4 +1,4 @@
-# 🌐 CalCast
+# CalCast 🗓️
 
 ### Introduction
 
